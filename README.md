@@ -1,4 +1,4 @@
-# Kokoa Clone 202 Update
+# Kokoa Clone 2021 Update
 
 CSS got so much better!
-fuxk!!!
+HTML & CSS are so much fun!
